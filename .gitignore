@@ -11,3 +11,8 @@ node_modules/
 Thumbs.db
 .idea/
 .vscode/
+
+# CMake build dirs
+build/
+build-*/
+compile_commands.json
